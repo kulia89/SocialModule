@@ -1,3 +1,7 @@
 # You can specialize this file for each language.
 # For example, for French create a messages.fr file
 #
+main.logo=Social Profile
+main.slog=Conversation at your home
+
+btn.chose.social=Chose social network
